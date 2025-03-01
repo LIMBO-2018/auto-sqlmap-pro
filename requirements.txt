@@ -2,3 +2,5 @@ sqlmap
 colorama
 rich
 argparse
+packaging
+setuptools
