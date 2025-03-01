@@ -20,7 +20,7 @@ A professional-grade SQLMap automation tool for advanced penetration testing.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/auto-sqlmap-pro.git
+git clone https://github.com/LIMBO-2018/auto-sqlmap-pro.git
 cd auto-sqlmap-pro
 ```
 
@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 3. Run the tool:
 ```bash
-python main.py
+python autosqlmap.py
 ```
 
 ## Usage Guide
