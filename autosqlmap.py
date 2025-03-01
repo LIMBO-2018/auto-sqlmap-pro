@@ -18,8 +18,8 @@ class AutoSQLMap:
 ║             Auto SQLMap Pro v2.0              ║
 ║         Advanced Penetration Testing          ║
 ╠═══════════════════════════════════════════════╣
-║ Author: Your Name                             ║
-║ GitHub: github.com/yourusername/auto-sqlmap-pro║
+║ Author: LIMBO-2018                             ║
+║ GitHub: github.com/LIMBO-2018/auto-sqlmap-pro║
 ╚═══════════════════════════════════════════════╝
 {Style.RESET_ALL}"""
         
